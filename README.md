@@ -50,7 +50,7 @@ To run RUN THE PROJECT LOGICALLY, follow this steps:
 
 The project is deployed on vercel, a platform known for its fast and easy deployment of web applications
 
-Live Demo;
+Live Demo;https://dom-project-tau.vercel.app/
 
 ## License
 
